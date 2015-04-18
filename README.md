@@ -1,4 +1,5 @@
 # Car-Game
-Simple HTML5 Game
+Simple HTML5 Car Game
 
-on going
+# Credits to
+mazkan
